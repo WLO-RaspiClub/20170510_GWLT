@@ -1,6 +1,8 @@
 # イベント案内
 ## 「WLOラズパイ倶楽部　ゴールデンウィーク作品発表会」
 
+[Peatixイベント申し込み](http://wloraspi170510.peatix.com/)
+
 ## 詳細
 WLOラズパイ倶楽部は、RaspberryPiやArduinoなどを使った
 趣味の電子工作に興味ある有志の集まりです。
